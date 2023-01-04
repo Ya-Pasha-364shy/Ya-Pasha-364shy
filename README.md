@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pavel Chernov aka K1rch
 - 👀 I’m interested in Programming (C/C++/Python/SQL) and CTF (reverse and pwn)
-- 🌱 I’m currently studying in NSTU and learning Go  
+- 🌱 I’m currently studying in NSTU and technical and programming foundations of information security
 - 💞️ I’m working in Eltex (like Cisco, but in Russia)
 - 📫 U are <a href="https://t.me/K001rch">welcome</a>
