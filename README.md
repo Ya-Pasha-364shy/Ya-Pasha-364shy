@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1rch&label=Profile%20views&color=0e75b6&style=flat" alt="k1rch" /> </p>
 
-- 🔭 I’m currently working in [Eltex](https://eltex-co.ru/)
-
 - 🌱 I’m currently learning **technical and programming foundations of information security**
 
 - 💬 Ask me about **anything in telegram =)**
