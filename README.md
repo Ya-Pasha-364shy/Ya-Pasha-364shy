@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavel Chernov aka K1rch</h1>
-<h3 align="center">C/C++/Python developer, student and member of <i>Tanuki Squad</i> team</h3>
+<h3 align="center">C/C++ developer, student and member of <i>Tanuki Squad</i> team</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1rch&label=Profile%20views&color=0e75b6&style=flat" alt="k1rch" /> </p>
 
