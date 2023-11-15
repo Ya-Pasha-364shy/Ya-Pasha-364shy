@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything in telegram =)**
 
-<h3 align="left">Connect with me: <a href="https://t.me/K001rch">link in telegram</a></h3>
+<h3 align="left">Connect with me: <a href="https://t.me/ya_Pasha_ebashy">link in telegram</a></h3>
 <p align="left">
 </p>
 
