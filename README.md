@@ -3,8 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1rch&label=Profile%20views&color=0e75b6&style=flat" alt="k1rch" /> </p>
 
-- 🌱 I’m currently learning **technical and programming foundations of information security**
-
+- 🌱 I'm currently studying in the "System Programming" program at HSE
+- 🌱 I'm specialist (bachelor) in technical and software information security
+- 🌱 C++ Programmer in ISP of RAS
 - 💬 Ask me about **anything in telegram =)**
 
 <h3 align="left">Connect with me: <a href="https://t.me/ya_Pasha_ebashy">link in telegram</a></h3>
