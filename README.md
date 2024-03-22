@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1rch&label=Profile%20views&color=0e75b6&style=flat" alt="k1rch" /> </p>
 
-- 🌱 I'm currently studying in the "System Programming" program at HSE
-- 🌱 I'm specialist (bachelor) in technical and software information security
-- 🌱 C++ Programmer in ISP of RAS
-- 💬 Ask me about **anything in telegram =)**
+- 🔹 I'm currently studying in the "System Programming" program at HSE
+- 🔹 I'm specialist (bachelor) in technical and software information security
+- 🔹 C and C++ Programmer in ISP of RAS
+
 
 <h3 align="left">Connect with me: <a href="https://t.me/ya_Pasha_ebashy">link in telegram</a></h3>
 <h3 align="left">CodeWars: <a href="https://www.codewars.com/users/Y4_P4sh4_3b4shy">link to my profile</a></h3>
