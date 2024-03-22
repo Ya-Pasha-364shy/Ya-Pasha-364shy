@@ -3,7 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1rch&label=Profile%20views&color=0e75b6&style=flat" alt="K1rch" /> </p>
 
 🔹 I'm currently studying in the "System Programming" program at HSE<br><br>
-🔹 I'm specialist (bachelor) in technical and software information security<br><br>
+🔹 Specialist (bachelor) in technical and software information security<br><br>
+🔹 Network engineer and system administrator<br><br>
 🔹 C and C++ Programmer in ISP of RAS<br><br>
 
 <h3 align="left">Connect with me: <a href="https://t.me/ya_Pasha_ebashy">link in telegram</a></h3>
