@@ -5,7 +5,7 @@
 🔹 I'm currently studying in the "System Programming" program at HSE<br><br>
 🔹 Specialist (bachelor) in technical and software information security<br><br>
 🔹 Network engineer and system administrator<br><br>
-🔹 C and C++ Programmer in ISP of RAS<br><br>
+🔹 C and C++ Programmer in ISP of RAS<br>
 
 <h3 align="left">Feel free to ask: <a href="https://t.me/y4_P4sh4_364shy">link in telegram</a></h3>
 <h3 align="left">CodeWars: <a href="https://www.codewars.com/users/Y4_P4sh4_3b4shy">link to my profile</a></h3>
