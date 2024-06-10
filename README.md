@@ -7,7 +7,7 @@
 🔹 Network engineer and system administrator<br><br>
 🔹 C and C++ Programmer in ISP of RAS<br><br>
 
-<h3 align="left">Connect with me: <a href="https://t.me/y4_P4sh4_364shy">link in telegram</a></h3>
+<h3 align="left">Feel free to ask: <a href="https://t.me/y4_P4sh4_364shy">link in telegram</a></h3>
 <h3 align="left">CodeWars: <a href="https://www.codewars.com/users/Y4_P4sh4_3b4shy">link to my profile</a></h3>
 <p align="left">
 </p>
