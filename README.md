@@ -2,8 +2,8 @@
 <h3 align="center">C/C++ developer, student and member of <i>Tanuki Squad</i> team</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1rch&label=Profile%20views&color=0e75b6&style=flat" alt="K1rch" /> </p>
 
-🔹 I'm currently studying in the "System Programming" program at HSE<br><br>
-🔹 Specialist (bachelor) in technical and software information security<br><br>
+🔹 Master's degree in systems programming HSE<br><br>
+🔹 Bachelor's degree in technical and software information security<br><br>
 🔹 Network engineer and system administrator<br><br>
 🔹 C/C++ programmer at Security Code<br>
 
